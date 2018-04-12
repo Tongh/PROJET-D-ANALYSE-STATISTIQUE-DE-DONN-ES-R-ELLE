@@ -1,0 +1,246 @@
+Sccessed!
+#################### ========== ####################
+#################### ========== ####################
+Dispersion : 
+ ==> [DeltaSphere]
+[ ORG ]
+ ==> Moyenne de DeltaSphere = -0.04675675675675676
+ ==> Variance de DeltaSphere = 0.002980832724616512
+ ==> Ecart type de DeltaSphere = 0.054597002890419834
+ ==> Valeur absolue des écarts de DeltaSphere = -1.5678149469368765e-17
+ ==> Etendue de DeltaSphere = 0.31000000000000005
+[ OXL ]
+ ==> Moyenne de DeltaSphere = -0.004166666666666671
+ ==> Variance de DeltaSphere = 0.0022369921227197356
+ ==> Ecart type de DeltaSphere = 0.0472968510867239
+ ==> Valeur absolue des écarts de DeltaSphere = -5.040191591892813e-18
+ ==> Etendue de DeltaSphere = 0.2700000000000006
+******************** ---------- ********************
+ ==> [DeltaCylindre]
+[ ORG ]
+ ==> Moyenne de DeltaCylindre = 0.0043065693430657005
+ ==> Variance de DeltaCylindre = 0.0015500665991794995
+ ==> Ecart type de DeltaCylindre = 0.039370885171399174
+ ==> Valeur absolue des écarts de DeltaCylindre = -1.1370669207497611e-17
+ ==> Etendue de DeltaCylindre = 0.23999999999999977
+[ OXL ]
+ ==> Moyenne de DeltaCylindre = 0.00016853932584269866
+ ==> Variance de DeltaCylindre = 0.0022346157892522015
+ ==> Ecart type de DeltaCylindre = 0.04727172293509304
+ ==> Valeur absolue des écarts de DeltaCylindre = 4.7688652860186383e-17
+ ==> Etendue de DeltaCylindre = 0.25
+******************** ---------- ********************
+ ==> [DeltaAxe]
+[ ORG ]
+ ==> Moyenne de DeltaAxe = -5.328467153284672
+ ==> Variance de DeltaAxe = 5313.44685385476
+ ==> Ecart type de DeltaAxe = 72.89339376002985
+ ==> Valeur absolue des écarts de DeltaAxe = 1.4625770181339288e-14
+ ==> Etendue de DeltaAxe = 317
+[ OXL ]
+ ==> Moyenne de DeltaAxe = 3.0355805243445695
+ ==> Variance de DeltaAxe = 3104.6110935768447
+ ==> Ecart type de DeltaAxe = 55.71903708407787
+ ==> Valeur absolue des écarts de DeltaAxe = -1.9384410847181852e-14
+ ==> Etendue de DeltaAxe = 360
+******************** ---------- ********************
+ ==> [DeltaAddition]
+[ ORG ]
+ ==> !! pas de données
+[ OXL ]
+ ==> Moyenne de DeltaAddition = 0.018283582089552212
+ ==> Variance de DeltaAddition = 0.005450536496621378
+ ==> Ecart type de DeltaAddition = 0.07382774882536632
+ ==> Valeur absolue des écarts de DeltaAddition = 2.2163034260240997e-17
+ ==> Etendue de DeltaAddition = 1.31
+******************** ---------- ********************
+ ==> [DeltaEpais.centre]
+[ ORG ]
+ ==> Moyenne de DeltaEpais.centre = -1.069897959183673
+ ==> Variance de DeltaEpais.centre = 58.38955305081218
+ ==> Ecart type de DeltaEpais.centre = 7.641305716355824
+ ==> Valeur absolue des écarts de DeltaEpais.centre = -7.794218785123548e-16
+ ==> Etendue de DeltaEpais.centre = 60.099999999999994
+[ OXL ]
+ ==> Moyenne de DeltaEpais.centre = 0.6575308641975307
+ ==> Variance de DeltaEpais.centre = 6.981381557689402
+ ==> Ecart type de DeltaEpais.centre = 2.6422304134366104
+ ==> Valeur absolue des écarts de DeltaEpais.centre = 4.180469413712009e-17
+ ==> Etendue de DeltaEpais.centre = 52.8
+******************** ---------- ********************
+#################### ========== ####################
+#################### ========== ####################
+Intervalle de confiance :
+ ==> [DeltaSphere]
+[ ORG ]
+[ a = 5% ]
+ ==> Intervalle de confiance est [-0.15376688242197964, 0.060253368908466116]
+ ==> 95.675676% de DeltaSphere est entre le intervalle de confiance!
+ ==> [ Prouvé ! ]
+[ a = 1% ]
+ ==> Intervalle de confiance est [-0.18739863620247824, 0.09388512268896473]
+ ==> 98.378378% de DeltaSphere est entre le intervalle de confiance!
+ ==> [ Problème ! ]
+[ OXL ]
+[ a = 5% ]
+ ==> Intervalle de confiance est [-0.09686849479664551, 0.08853516146331218]
+ ==> 94.527363% de DeltaSphere est entre le intervalle de confiance!
+ ==> [ Problème ! ]
+[ a = 1% ]
+ ==> Intervalle de confiance est [-0.12600335506606744, 0.11767002173273411]
+ ==> 98.756219% de DeltaSphere est entre le intervalle de confiance!
+ ==> [ Problème ! ]
+******************** ---------- ********************
+ ==> [DeltaCylindre]
+[ ORG ]
+[ a = 5% ]
+ ==> Intervalle de confiance est [-0.07286036559287669, 0.08147350427900808]
+ ==> 92.700730% de DeltaCylindre est entre le intervalle de confiance!
+ ==> [ Problème ! ]
+[ a = 1% ]
+ ==> Intervalle de confiance est [-0.09711283085845858, 0.10572596954458997]
+ ==> 97.810219% de DeltaCylindre est entre le intervalle de confiance!
+ ==> [ Problème ! ]
+[ OXL ]
+[ a = 5% ]
+ ==> Intervalle de confiance est [-0.09248403762693966, 0.09282111627862505]
+ ==> 95.880150% de DeltaCylindre est entre le intervalle de confiance!
+ ==> [ Prouvé ! ]
+[ a = 1% ]
+ ==> Intervalle de confiance est [-0.12160341895495698, 0.12194049760664237]
+ ==> 99.625468% de DeltaCylindre est entre le intervalle de confiance!
+ ==> [ Prouvé ! ]
+******************** ---------- ********************
+ ==> [DeltaAxe]
+[ ORG ]
+[ a = 5% ]
+ ==> Intervalle de confiance est [-148.19951892294318, 137.54258461637386]
+ ==> 94.890511% de DeltaAxe est entre le intervalle de confiance!
+ ==> [ Problème ! ]
+[ a = 1% ]
+ ==> Intervalle de confiance est [-193.10184947912157, 182.44491517255224]
+ ==> 100.000000% de DeltaAxe est entre le intervalle de confiance!
+ ==> [ Prouvé ! ]
+[ OXL ]
+[ a = 5% ]
+ ==> Intervalle de confiance est [-106.17373216044805, 112.24489320913719]
+ ==> 90.262172% de DeltaAxe est entre le intervalle de confiance!
+ ==> [ Problème ! ]
+[ a = 1% ]
+ ==> Intervalle de confiance est [-140.49665900424003, 146.56782005292916]
+ ==> 90.262172% de DeltaAxe est entre le intervalle de confiance!
+ ==> [ Problème ! ]
+******************** ---------- ********************
+ ==> [DeltaAddition]
+[ ORG ]
+ ==> !! pas de données
+[ OXL ]
+[ a = 5% ]
+ ==> Intervalle de confiance est [-0.12641880560816576, 0.1629859697872702]
+ ==> 98.631841% de DeltaAddition est entre le intervalle de confiance!
+ ==> [ Prouvé ! ]
+[ a = 1% ]
+ ==> Intervalle de confiance est [-0.17189669888459141, 0.20846386306369585]
+ ==> 99.751244% de DeltaAddition est entre le intervalle de confiance!
+ ==> [ Prouvé ! ]
+******************** ---------- ********************
+ ==> [DeltaEpais.centre]
+[ ORG ]
+[ a = 5% ]
+ ==> Intervalle de confiance est [-16.046857163241086, 13.907061244873741]
+ ==> 94.387755% de DeltaEpais.centre est entre le intervalle de confiance!
+ ==> [ Problème ! ]
+[ a = 1% ]
+ ==> Intervalle de confiance est [-20.753901484516277, 18.61410556614893]
+ ==> 94.387755% de DeltaEpais.centre est entre le intervalle de confiance!
+ ==> [ Problème ! ]
+[ OXL ]
+[ a = 5% ]
+ ==> Intervalle de confiance est [-4.521240746138226, 5.836302474533287]
+ ==> 99.259259% de DeltaEpais.centre est entre le intervalle de confiance!
+ ==> [ Prouvé ! ]
+[ a = 1% ]
+ ==> Intervalle de confiance est [-6.148854680815178, 7.463916409210239]
+ ==> 99.259259% de DeltaEpais.centre est entre le intervalle de confiance!
+ ==> [ Prouvé ! ]
+******************** ---------- ********************
+#################### ========== ####################
+#################### ========== ####################
+H0 : l’écart entre la valeur demandée et la valeur fabriquée est nul.
+ ==> [DeltaSphere]
+[ ORG ]
+[ 0.01 ] ==> H0 [ Refusé ]
+[ 0.05 ] ==> H0 [ Refusé ]
+ ==> z = -11.648270316001835
+[ OXL ]
+[ 0.01 ] ==> H0 [ Accetpté ]
+[ 0.05 ] ==> H0 [ Refusé ]
+ ==> z = -2.4979546828536843
+******************** ---------- ********************
+ ==> [DeltaCylindre]
+[ ORG ]
+[ 0.01 ] ==> H0 [ Accetpté ]
+[ 0.05 ] ==> H0 [ Accetpté ]
+ ==> z = 1.280314160726745
+[ OXL ]
+[ 0.01 ] ==> H0 [ Accetpté ]
+[ 0.05 ] ==> H0 [ Accetpté ]
+ ==> z = 0.08238923102123696
+******************** ---------- ********************
+ ==> [DeltaAxe]
+[ ORG ]
+[ 0.01 ] ==> H0 [ Accetpté ]
+[ 0.05 ] ==> H0 [ Accetpté ]
+ ==> z = -0.8556071517076531
+[ OXL ]
+[ 0.01 ] ==> H0 [ Accetpté ]
+[ 0.05 ] ==> H0 [ Accetpté ]
+ ==> z = 1.2589508744825078
+******************** ---------- ********************
+ ==> [DeltaAddition]
+[ ORG ]
+ ==> !! pas de données
+[ OXL ]
+[ 0.01 ] ==> H0 [ Refusé ]
+[ 0.05 ] ==> H0 [ Refusé ]
+ ==> z = 7.022143244301973
+******************** ---------- ********************
+ ==> [DeltaEpais.centre]
+[ ORG ]
+[ 0.01 ] ==> H0 [ Accetpté ]
+[ 0.05 ] ==> H0 [ Refusé ]
+ ==> z = -1.960210988092069
+[ OXL ]
+[ 0.01 ] ==> H0 [ Refusé ]
+[ 0.05 ] ==> H0 [ Refusé ]
+ ==> z = 7.0825225420699285
+******************** ---------- ********************
+#################### ========== ####################
+#################### ========== ####################
+TEST DE COMPARAISON DE MOYENNES
+ ==> [DeltaSphere]
+a = 177, b = 8, c = 760 , d = 44, n = 989
+ ==> K2 = 0.3981083738104398
+[ Non relation ] <==> K2 <= 3.841
+******************** ---------- ********************
+ ==> [DeltaCylindre]
+a = 127, b = 10, c = 512 , d = 22, n = 671
+ ==> K2 = 2.4267737035253
+[ Non relation ] <==> K2 <= 3.841
+******************** ---------- ********************
+ ==> [DeltaAxe]
+a = 130, b = 7, c = 482 , d = 52, n = 671
+ ==> K2 = 2.912266870287134
+[ Non relation ] <==> K2 <= 3.841
+******************** ---------- ********************
+ ==> [DeltaAddition]
+ ==> !! pas de données
+******************** ---------- ********************
+ ==> [DeltaEpais.centre]
+a = 185, b = 11, c = 804 , d = 6, n = 1006
+ ==> K2 = 22.543430934895024
+[ 99% relation ] <==> K2 >= 6.635
+******************** ---------- ********************
+#################### ========== ####################
+#################### ========== ####################
+
